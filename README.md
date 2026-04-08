@@ -229,3 +229,5 @@ Gin is the work of hundreds of contributors from around the world. We welcome an
 ## Health Check
 
 GET /health returns 200 OK
+
+<!-- git-connector test marker 2026-04-08T08:16:40Z -->
