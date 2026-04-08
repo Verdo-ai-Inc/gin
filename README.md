@@ -237,3 +237,7 @@ GET /health returns 200 OK
 <!-- pr_commits multi-commit test 2 -->
 
 <!-- pr_commits multi-commit test 3 -->
+
+<!-- pr_commits force-push test merged commit -->
+
+<!-- pr_commits force-push second -->
