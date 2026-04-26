@@ -231,3 +231,13 @@ Gin is the work of hundreds of contributors from around the world. We welcome an
 GET /health returns 200 OK
 
 <!-- git-connector test marker 2026-04-08T08:16:40Z -->
+
+<!-- pr_commits multi-commit test 1 -->
+
+<!-- pr_commits multi-commit test 2 -->
+
+<!-- pr_commits multi-commit test 3 -->
+
+<!-- pr_commits force-push test merged commit -->
+
+<!-- pr_commits force-push second -->
